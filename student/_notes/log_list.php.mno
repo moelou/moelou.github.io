@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:st_id;datatype:int,name:st_fname;datatype:string,name:st_matric;datatype:string,name:st_depart;datatype:string,name:st_email;datatype:string,name:st_psw;datatype:string,name:st_ia;datatype:int,name:st_phone;datatype:string,name:st_yoc;datatype:string,name:st_photo;datatype:blob,name:st_gender;datatype:string,name:act_descrp;datatype:blob,name:act_date;datatype:date,name:wkl_start;datatype:date,name:wkl_end;datatype:date" />
+	<infoitem key="UD_user_act" value="name:st_id;datatype:int,name:st_fname;datatype:string,name:st_matric;datatype:string,name:st_depart;datatype:string,name:st_email;datatype:string,name:st_psw;datatype:string,name:st_ia;datatype:int,name:st_phone;datatype:string,name:st_yoc;datatype:string,name:st_photo;datatype:blob,name:st_gender;datatype:string,name:act_descrp;datatype:blob,name:act_date;datatype:date,name:wkl_start;datatype:date,name:wkl_end;datatype:date,name:act_wkl_idfk;datatype:int" />
+</info>

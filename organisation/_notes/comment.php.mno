@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_weekly" value="name:wkl_id;datatype:int,name:wkl_st_idfk;datatype:int,name:wkl_start;datatype:date,name:wkl_end;datatype:date,name:wkl_comt;datatype:blob,name:wkl_date;datatype:date" />
+	<infoitem key="UD_user_act" value="name:act_pos_idfk;datatype:int,name:act_descrp;datatype:blob,name:act_date;datatype:date,name:act_wkl_idfk;datatype:int,name:act_img;datatype:string" />
+</info>

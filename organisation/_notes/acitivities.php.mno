@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_user" value="name:org_id;datatype:int,name:org_fname;datatype:string,name:org_add;datatype:blob,name:org_supervisor;datatype:string,name:org_phone;datatype:string,name:org_depart;datatype:string,name:org_uname;datatype:string,name:org_psw;datatype:string" />
+	<infoitem key="UD_student" value="name:st_id;datatype:int,name:st_fname;datatype:string,name:st_matric;datatype:string,name:st_depart;datatype:string,name:st_email;datatype:string,name:st_psw;datatype:string,name:st_ia;datatype:string,name:st_phone;datatype:string,name:st_yoc;datatype:string,name:st_photo;datatype:blob,name:st_gender;datatype:string,name:org_uname;datatype:string,name:org_fname;datatype:string,name:pos_st_idfk;datatype:int" />
+	<infoitem key="UD_weekly" value="name:wkl_id;datatype:int,name:wkl_st_idfk;datatype:int,name:wkl_start;datatype:date,name:wkl_end;datatype:date,name:wkl_comt;datatype:blob,name:wkl_date;datatype:date" />
+</info>

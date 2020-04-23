@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_staff_list" value="name:stf_id;datatype:int,name:stf_fname;datatype:string,name:stf_depart;datatype:string,name:stf_email;datatype:string,name:stf_phone;datatype:string,name:stf_psw;datatype:string,name:stf_ia;datatype:int,name:stf_gender;datatype:string,name:stf_photo;datatype:blob" />
+	<infoitem key="UD_user" value="name:adm_id;datatype:int,name:adm_fname;datatype:string,name:adm_phone;datatype:string,name:adm_email;datatype:string,name:adm_psw;datatype:string,name:adm_ia;datatype:int" />
+</info>
